@@ -1,4 +1,4 @@
- # EXEMPLO DE Código
+ # EXEMPLO DE CÓDIGO
 
 - 👋 Hi, I’m @BahTech47
 - 👀 I’m interested in ...
