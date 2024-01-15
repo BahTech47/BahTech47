@@ -1,7 +1,8 @@
 
-![Foto da BahTech](https://user-images.githubusercontent.com/78217000/151174325-0f03e5dc-a196-4f5b-a13d-c23f8aa4a720.png)
+![Foto da BahTech](https://github.com/BahTech47/BahTech47/assets/78217000/b7c9e8c0-b240-4791-a44f-677d85f45123)
+
  # Bahtech #16041
- 
+
 ## Who are we?
 > _we are the bahtech team from the municipality of gravataí we came from the sesi school and we are an FTC team currently composed of 18 people_
 ## How does team division work?
